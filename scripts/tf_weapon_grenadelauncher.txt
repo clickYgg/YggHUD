@@ -1,7 +1,7 @@
 //	YggHUD Essentials 
 //	NoExplosionSmoke
 //	This script replaces particle effects created by explosives upon impact with less intrusive ones.
-//	splash damage creates a red flash upon impact, direct hits create a bllue flash upon impact.
+//	splash damage creates a red flash upon impact, direct hits create a blue flash upon impact.
 
 WeaponData
 {
